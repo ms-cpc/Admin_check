@@ -1,0 +1,1 @@
+Priviledge Escalation batch does check and escalates much more efficiently.
